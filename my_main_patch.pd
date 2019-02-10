@@ -1,0 +1,4 @@
+#N canvas 0 0 1280 778 10;
+#X text 93 35 This is my main patch;
+#X obj 164 111 my_sampler;
+#X obj 576 111 my_chorusing;
